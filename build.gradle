@@ -19,7 +19,6 @@ dependencies {
     implementation 'cglib:cglib:3.3.0'
     implementation 'org.yaml:snakeyaml:1.29'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.4'
-    implementation 'javax.validation:validation-api:2.0.1.Final'
     implementation 'org.hibernate:hibernate-validator:7.0.1.Final'
     implementation 'org.slf4j:slf4j-api:1.7.31'
     implementation 'org.slf4j:slf4j-simple:1.7.31'

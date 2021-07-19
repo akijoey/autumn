@@ -4,12 +4,7 @@ import com.akijoey.autumn.annotation.validation.Validated;
 import org.hibernate.validator.HibernateValidator;
 import org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator;
 
-import javax.validation.ConstraintViolation;
-import javax.validation.ConstraintViolationException;
-import javax.validation.Valid;
-import javax.validation.Validation;
-import javax.validation.Validator;
-import javax.validation.ValidatorFactory;
+import jakarta.validation.*;
 import java.lang.annotation.Annotation;
 import java.util.Arrays;
 import java.util.Set;
