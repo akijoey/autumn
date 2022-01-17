@@ -1,0 +1,14 @@
+{
+  "name": "autumn",
+  "version": "0.0.1",
+  "description": "Lightweight http framework for Java.",
+  "private": true,
+  "scripts": {
+    "format": "devkit format",
+    "prepare": "devkit prepare",
+    "release": "devkit release"
+  },
+  "devDependencies": {
+    "@akijoey/devkit": "latest"
+  }
+}

@@ -32,13 +32,11 @@
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
       <version>1.29</version>
-      <type>bundle</type>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.12.4</version>
-      <type>bundle</type>
     </dependency>
     <dependency>
       <groupId>org.hibernate.validator</groupId>
@@ -65,18 +63,6 @@
     <java.version>11</java.version>
   </properties>
 
-  <!-- Build Settings -->
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.felix</groupId>
-        <artifactId>maven-bundle-plugin</artifactId>
-        <version>5.1.2</version>
-        <extensions>true</extensions>
-      </plugin>
-    </plugins>
-  </build>
-
   <!-- More Project Information -->
   <name>autumn</name>
   <description>Lightweight http framework for Java.</description>
@@ -84,7 +70,7 @@
   <licenses>
     <license>
       <name>MIT</name>
-      <url>https://github.com/akijoey/autumn/blob/master/LICENSE</url>
+      <url>https://github.com/akijoey/autumn/blob/main/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>

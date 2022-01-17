@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group 'com.akijoey.autumn'
-version '0.0.1'
+group 'com.akijoey'
+version '1.0.0'
 
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11

@@ -1,6 +1,7 @@
 # autumn
 
 [![maven][maven-image]][maven-url]
+[![build][build-image]][build-url]
 [![license][license-image]][license-url]
 
 Lightweight http framework for Java.
@@ -13,7 +14,7 @@ Add the following dependency to your `pom.xml`:
 <dependency>
   <groupId>com.akijoey</groupId>
   <artifactId>autumn</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
@@ -23,5 +24,7 @@ Add the following dependency to your `pom.xml`:
 
 [maven-image]: https://img.shields.io/maven-central/v/com.akijoey/autumn.svg?label=maven
 [maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22autumn%22
+[build-image]: https://img.shields.io/github/workflow/status/akijoey/autumn/Build
+[build-url]: https://github.com/akijoey/autumn/actions/workflows/build.yml
 [license-image]: https://img.shields.io/github/license/akijoey/autumn
-[license-url]: https://github.com/akijoey/autumn/blob/master/LICENSE
+[license-url]: https://github.com/akijoey/autumn/blob/main/LICENSE
