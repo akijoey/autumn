@@ -1,6 +1,6 @@
 {
   "name": "autumn",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Lightweight http framework for Java.",
   "private": true,
   "scripts": {

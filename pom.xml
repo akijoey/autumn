@@ -5,7 +5,7 @@
   <!-- The Basics -->
   <groupId>com.akijoey</groupId>
   <artifactId>autumn</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
   <dependencies>
     <dependency>
